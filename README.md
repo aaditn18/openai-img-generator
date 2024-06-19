@@ -1,2 +1,4 @@
 # openai-img-generator
-# Remember to use postman to create post first before lauching localhost:5002 pg
+
+Text-to-image web app using OpenAI’s DALL-E, Node.js, CSS, HTML, and Javascript,
+generating images from text
